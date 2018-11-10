@@ -1,0 +1,1 @@
+/bin/c++   -Wall -Wextra -pedantic -std=c++11  -Wall -Wextra -pedantic -std=c++11 -g -g  -rdynamic CMakeFiles/code.dir/src/main.cpp.o  -o code -Wl,-Bstatic -lSDL2main -Wl,-Bdynamic -lSDL2 -lpthread 
